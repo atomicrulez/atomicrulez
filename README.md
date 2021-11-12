@@ -1,14 +1,23 @@
-- 👋 Hi, I’m Michael Adam Jarman
-- 👀 I’m interested in ...
-Building & Renting Workstations. I finally have a single Intel® Optane™ SSD DC P5800X Series (400GB, 2.5in PCIe x4, 3D XPoint™)!
-- 🌱 I’m currently learning ...
-Windows 11: (Powershell, Terminal, WSL2, WSLg, & Visual Studio Code)
-- 💞️ I’m looking to collaborate on ...
-anything other than cryptocurrency mining or some relaxing Xbox Game Pass Ultimate multiplayer gaming.
-- 📫 How to reach me ...
-nforce980a@gmail.com
+wsl --status
 
-<!---
-atomicrulez/atomicrulez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Default Version: 2
+WSL version: 0.48.2.0
+Kernel version: 5.10.60.1
+WSLg version: 1.0.29
+Windows version: 10.0.22000.318
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+
+"BuildBranch"="co_release"
+"BuildLab"="22000.co_release.210604-1628"
+"BuildLabEx"="22000.1.amd64fre.co_release.210604-1628"
+"CompositionEditionID"="Enterprise"
+"CurrentBuild"="22000"
+"CurrentBuildNumber"="22000"
+"CurrentType"="Multiprocessor Free"
+"CurrentVersion"="6.3"
+"DisplayVersion"="21H2"
+"EditionID"="ProfessionalWorkstation"
+"InstallationType"="Client"
+"ProductName"="Windows 10 Pro for Workstations"
+"ReleaseId"="2009"
