@@ -4,7 +4,7 @@ Default Version: 2 <br />
 WSL version: 0.48.2.0 <br />
 Kernel version: 5.10.60.1 <br />
 WSLg version: 1.0.29 <br />
-Windows version: 10.0.22000.318 <br />
+Windows version: 10.0.22000.346 <br />
  <br />
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion <br />
  <br />
