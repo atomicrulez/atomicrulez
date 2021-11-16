@@ -1,22 +1,22 @@
 wsl --status <br />
  <br />
 Default Version: 2 <br />
-WSL version: 0.48.2.0 <br />
-Kernel version: 5.10.60.1 <br />
+WSL version: 0.50.2.0 <br />
+Kernel version: 5.10.74.3 <br />
 WSLg version: 1.0.29 <br />
-Windows version: 10.0.22000.346 <br />
+Windows version: 10.0.22499.1010 <br />
  <br />
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion <br />
  <br />
-"BuildBranch"="co_release" <br />
-"BuildLab"="22000.co_release.210604-1628" <br />
-"BuildLabEx"="22000.1.amd64fre.co_release.210604-1628" <br />
+"BuildBranch"="rs_prerelease" <br />
+"BuildLab"="22499.rs_prerelease.211105-1550" <br />
+"BuildLabEx"="22499.1000.amd64fre.rs_prerelease.211105-1550" <br />
 "CompositionEditionID"="Enterprise" <br />
-"CurrentBuild"="22000" <br />
-"CurrentBuildNumber"="22000" <br />
+"CurrentBuild"="22499" <br />
+"CurrentBuildNumber"="22499" <br />
 "CurrentType"="Multiprocessor Free" <br />
 "CurrentVersion"="6.3" <br />
-"DisplayVersion"="21H2" <br />
+"DisplayVersion"="Dev" <br />
 "EditionID"="ProfessionalWorkstation" <br />
 "InstallationType"="Client" <br />
 "ProductName"="Windows 10 Pro for Workstations" <br />
