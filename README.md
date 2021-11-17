@@ -9,11 +9,11 @@ Windows version: 10.0.22499.1010 <br />
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion <br />
  <br />
 "BuildBranch"="rs_prerelease" <br />
-"BuildLab"="22499.rs_prerelease.211105-1550" <br />
-"BuildLabEx"="22499.1000.amd64fre.rs_prerelease.211105-1550" <br />
+"BuildLab"="22504.rs_prerelease.211112-1650" <br />
+"BuildLabEx"="22504.1000.amd64fre.rs_prerelease.211112-1650" <br />
 "CompositionEditionID"="Enterprise" <br />
-"CurrentBuild"="22499" <br />
-"CurrentBuildNumber"="22499" <br />
+"CurrentBuild"="22504" <br />
+"CurrentBuildNumber"="22504" <br />
 "CurrentType"="Multiprocessor Free" <br />
 "CurrentVersion"="6.3" <br />
 "DisplayVersion"="Dev" <br />
