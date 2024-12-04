@@ -1,1 +1,1 @@
-https://openbenchmarking.org/user/michaelajarman
+[https://openbenchmarking.org/results/michaelajarman]
